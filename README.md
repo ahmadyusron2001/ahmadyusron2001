@@ -4,13 +4,9 @@
 
 <p>
   Welcome to my page! <br />
-  I'm Thomas, a Fullstack developer from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13" alt="France flag" /> <b>Lorient, France</b>, 
-  currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13" alt="Sweden flag" /> <b>Stockholm, Sweden</b>.
-</p>
+  I'm Yusron, a developer from Jawa Timur, Indonesia
 
-<h3>Technologies I Work With</h3>
+<h3>Technology</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
